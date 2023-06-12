@@ -1,0 +1,3 @@
+[submodule "xstance"]
+	path = xstance
+	url = git@github.com:ZurichNLP/xstance.git
